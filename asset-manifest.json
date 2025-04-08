@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TIMER/static/css/main.34a4cf35.css",
+    "main.js": "/TIMER/static/js/main.1503dd03.js",
+    "index.html": "/TIMER/index.html",
+    "main.34a4cf35.css.map": "/TIMER/static/css/main.34a4cf35.css.map",
+    "main.1503dd03.js.map": "/TIMER/static/js/main.1503dd03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a4cf35.css",
+    "static/js/main.1503dd03.js"
+  ]
+}
