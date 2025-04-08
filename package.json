@@ -1,5 +1,5 @@
 {
-  "homepage": "https://azhagammai.github.io/TIMER",
+  "homepage": "https://azhagammai.github.io/Timer_app",
   "name": "timer-app",
   "version": "0.1.0",
   "private": true,
@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Azhagammai/TIMER.git"
+    "url": "git+https://github.com/Azhagammai/Timer_app.git"
   },
   "bugs": {
-    "url": "https://github.com/Azhagammai/TIMER/issues"
+    "url": "https://github.com/Azhagammai/Timer_app/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
